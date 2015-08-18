@@ -1,0 +1,447 @@
+From zejkic at gmx.at  Thu Jul  3 21:44:42 2003
+From: zejkic at gmx.at (Amber Mccall)
+Date: Thu, 03 Jul 03 19:44:42 GMT
+Subject: [Koch-suite-changes] Re: I dream her every night gxikvymyqjgb xnpaq
+Message-ID: <ntpoi$29i29ilub8n649@0ew.sz7.k.mk>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20030703/2c65e07b/attachment.html>
+
+From l96i6ars0f at ltsonline.com  Thu Jul 10 23:21:06 2003
+From: l96i6ars0f at ltsonline.com (Gale Gates)
+Date: Thu, 10 Jul 03 21:21:06 GMT
+Subject: [Koch-suite-changes] Re: a very lovely girl fzsdwkergvscddthg
+Message-ID: <5ub$bdx7wy628-5-9$365038j3@hmw1.35.1lk4>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20030710/32fc8258/attachment.html>
+
+From lestinsky at berlios.de  Wed Jul 30 09:54:57 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 30 Jul 2003 09:54:57 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200307300754.h6U7svl08358@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 30 09:54:57 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	print.raw 
+Log Message:
+We are done here, so exit instead of break
+this fixes a warning when "printing" recipes in HTML-Mode
+
+
+From lestinsky at berlios.de  Wed Jul 30 09:57:25 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 30 Jul 2003 09:57:25 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200307300757.h6U7vPD09068@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 30 09:57:25 CEST 2003
+
+Update of src/commands
+
+Modified Files:
+	init_db.raw 
+Log Message:
+Fix sql
+
+
+From lestinsky at berlios.de  Wed Jul 30 09:58:24 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 30 Jul 2003 09:58:24 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200307300758.h6U7wOO09117@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 30 09:58:24 CEST 2003
+
+Update of src/Documentation
+
+Modified Files:
+	PHP.txt 
+Log Message:
+Update installation instructions to PHP 4.3.*
+
+
+From lestinsky at berlios.de  Wed Jul 30 10:00:03 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 30 Jul 2003 10:00:03 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200307300800.h6U803Q09212@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 30 10:00:03 CEST 2003
+
+Update of src
+
+Modified Files:
+	README 
+Log Message:
+slightly better language and clearifcation of a few things
+
+
+From lestinsky at berlios.de  Thu Jul 31 04:01:05 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 31 Jul 2003 04:01:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200307310201.h6V215302568@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Jul 31 04:01:05 CEST 2003
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at berlios.de  Mon Aug  4 23:15:08 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 4 Aug 2003 23:15:08 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042115.h74LF8j29375@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug  4 23:15:08 CEST 2003
+
+Update of src/include
+
+Modified Files:
+	es.inc 
+Log Message:
+Update Spanish texts. Work done by Vicente Ruiz <vjrj at terra.es>
+
+
+From lestinsky at berlios.de  Mon Aug  4 23:16:08 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 4 Aug 2003 23:16:08 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042116.h74LG8129423@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug  4 23:16:08 CEST 2003
+
+Update of src
+
+Modified Files:
+	config 
+Log Message:
+Some comments
+
+
+From lestinsky at berlios.de  Tue Aug  5 00:33:42 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 5 Aug 2003 00:33:42 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042233.h74MXgj06925@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug  5 00:33:42 CEST 2003
+
+Update of src/www
+
+Added Files:
+	theme_summer.raw styles_summer.css 
+Log Message:
+Well, it's 0:32h and still 28?C, we definitly need a summer theme
+
+
+From lestinsky at berlios.de  Tue Aug  5 00:33:42 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 5 Aug 2003 00:33:42 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042233.h74MXgJ06915@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug  5 00:33:42 CEST 2003
+
+Update of src/www/pics
+
+Added Files:
+	bg_summer.png 
+Log Message:
+Well, it's 0:32h and still 28?C, we definitly need a summer theme
+
+
+From lestinsky at berlios.de  Tue Aug  5 00:35:34 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 5 Aug 2003 00:35:34 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042235.h74MZYn06960@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug  5 00:35:33 CEST 2003
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw 
+Log Message:
+Summer, palms, sunshine
+
+
+From lestinsky at berlios.de  Tue Aug  5 01:02:02 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 5 Aug 2003 01:02:02 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042302.h74N22108668@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug  5 01:02:02 CEST 2003
+
+Update of src/www/pics
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+Und es war Sommer, das erste Mal in seinem Leben...
+
+
+
+From lestinsky at berlios.de  Tue Aug  5 01:02:02 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 5 Aug 2003 01:02:02 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308042302.h74N22B08660@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug  5 01:02:02 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+Und es war Sommer, das erste Mal in seinem Leben...
+
+
+
+From lestinsky at berlios.de  Tue Aug  5 04:01:07 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 5 Aug 2003 04:01:07 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308050201.h75217Q15627@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug  5 04:01:07 CEST 2003
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:08:31 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:08:31 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112008.h7BK8Vu08712@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:08:31 CEST 2003
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Casting in switch()-statements
+A new group of functions introduced: get_and_check_*_variable to fetch and
+test type and boundary conditions of external variables from e.g. $_POST
+or $_GET.
+
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:09:03 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:09:03 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112009.h7BK93i08732@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:09:03 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	pastebox.raw 
+Log Message:
+HTML formatting
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:11:32 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:11:32 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112011.h7BKBWR08796@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:11:32 CEST 2003
+
+Update of src/include
+
+Modified Files:
+	en.inc es.inc de.inc 
+Log Message:
+AIX has gone. I don't care about this platform any longer, so it's not
+officially supported.
+
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:12:54 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:12:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112012.h7BKCsS08836@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:12:54 CEST 2003
+
+Update of src/include
+
+Modified Files:
+	output.raw 
+Log Message:
+Truncate the output to 65 characters max. for yield and title lines in mm- and rkexport
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:14:13 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:14:13 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112014.h7BKEDx08883@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:14:13 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	print.raw mmprint.raw 
+Log Message:
+Use get_and_check_*_variable()
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:16:44 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:16:44 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112016.h7BKGiU08983@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:16:44 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	einfuegen.raw 
+Log Message:
+Use get_and_check_*_variable() where appropriate,
+check some conditions on the input,
+dont forget to render an empty meta-input-field, where needed
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:17:54 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:17:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112017.h7BKHsu09006@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:17:54 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	footer.raw 
+Log Message:
+Make the &copy;-Entity a link to the licence
+
+
+From lestinsky at berlios.de  Mon Aug 11 22:19:38 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 11 Aug 2003 22:19:38 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308112019.h7BKJcM09065@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 11 22:19:38 CEST 2003
+
+Update of src/www
+
+Modified Files:
+	header.raw 
+Log Message:
+Allow superseeding the background style, used for printer-friendly output
+
+
+From lestinsky at berlios.de  Tue Aug 12 04:01:08 2003
+From: lestinsky at berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 12 Aug 2003 04:01:08 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200308120201.h7C218A08372@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug 12 04:01:08 CEST 2003
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+

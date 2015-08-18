@@ -1,0 +1,40 @@
+From lestinsky at mail.berlios.de  Fri Aug  1 04:11:19 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Fri, 01 Aug 2008 02:11:19 -0000
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <489270C4.mailHV112UDY@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug  1 04:11:16 CEST 2008
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at mail.berlios.de  Sat Aug  2 04:11:19 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 02 Aug 2008 02:11:19 -0000
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4893C240.mail36711Q7CM@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  2 04:11:12 CEST 2008
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+

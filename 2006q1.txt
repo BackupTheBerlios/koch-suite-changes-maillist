@@ -1,0 +1,221 @@
+From lestinsky at berlios.de  Tue Jan 17 18:35:27 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:35:27 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2ADF.mailJCA11LN59@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:35:26 CET 2006
+
+Update of src/Documentation
+
+Added Files:
+	ChangeLog.1.gz 
+Log Message:
+Accumulate only entries newer than 1.1.2005 in ChangeLog,
+and store older entries to ChangeLog.1.gz,
+
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:35:26 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:35:26 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2ADE.mailJBH1RVW9I@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:35:26 CET 2006
+
+Update of src
+
+Modified Files:
+	Makefile 
+Log Message:
+Accumulate only entries newer than 1.1.2005 in ChangeLog,
+and store older entries to ChangeLog.1.gz,
+
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:36:45 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:36:45 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2B2D.mailKEF1F9CIE@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:36:45 CET 2006
+
+Update of src/Documentation
+
+Modified Files:
+	FAQ.txt Programmers.txt 
+Log Message:
+Bump Copyright to 2006
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:36:45 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:36:45 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2B2D.mailKE61L9V29@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:36:45 CET 2006
+
+Update of src
+
+Modified Files:
+	INSTALL LICENSE README configure install-sh 
+Log Message:
+Bump Copyright to 2006
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:36:45 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:36:45 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2B2D.mailKEV1I9J3U@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:36:45 CET 2006
+
+Update of src/include
+
+Modified Files:
+	auth.raw debug.raw functions.raw lang.raw output.raw 
+	parser.raw profiling.raw pwcrypt.raw setup.raw 
+Log Message:
+Bump Copyright to 2006
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:36:45 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:36:45 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2B2D.mailKEM115O24@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:36:45 CET 2006
+
+Update of src/commands
+
+Modified Files:
+	init_db.raw init_db2.raw mmimport.raw rezept.raw 
+Log Message:
+Bump Copyright to 2006
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:36:45 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:36:45 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2B2D.mailKF411OTT5@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:36:45 CET 2006
+
+Update of src/man/man1
+
+Modified Files:
+	mmimport.1.raw rezept.1.raw 
+Log Message:
+Bump Copyright to 2006
+
+
+From lestinsky at berlios.de  Tue Jan 17 18:36:46 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Tue, 17 Jan 2006 18:36:46 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CD2B2E.mailKFF11HPOQ@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jan 17 18:36:46 CET 2006
+
+Update of src/www
+
+Modified Files:
+	admin.raw delete.raw edit_alias.raw edit_cat.raw einfuegen.raw 
+	footer.raw help.raw index.raw infos.raw kategorien.raw 
+	login.raw logout.raw mmprint.raw pastebox.raw print.raw 
+	rezept.raw search.raw settings.raw theme_default.raw 
+	theme_passionfruit.raw theme_summer.raw theme_winter.raw 
+	units.raw 
+Log Message:
+Bump Copyright to 2006
+
+
+From lestinsky at berlios.de  Wed Jan 18 03:58:03 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Wed, 18 Jan 2006 03:58:03 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43CDAEBB.mail56X113415@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jan 18 03:58:02 CET 2006
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at berlios.de  Wed Feb  8 18:44:26 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Wed, 08 Feb 2006 18:44:26 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43EA2DFA.mail652110TTC@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Feb  8 18:44:26 CET 2006
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+\$this doesn't work.
+Fixes problems with php 5.1.2.
+
+
+
+From lestinsky at berlios.de  Thu Feb  9 03:57:22 2006
+From: lestinsky at berlios.de (lestinsky at BerliOS)
+Date: Thu, 09 Feb 2006 03:57:22 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <43EAAF92.mailK4T1AVWRH@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Feb  9 03:57:21 CET 2006
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+

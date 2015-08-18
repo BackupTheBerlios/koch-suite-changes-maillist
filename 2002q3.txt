@@ -1,0 +1,2868 @@
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:25:33 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:25:33 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031625.g63GPXX03611@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:25:33 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	units.raw mmprint.raw edit_alias.raw 
+Log Message:
+Code auditing: check variables before usage and prevent cross site scripting
+
+
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:26:46 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:26:46 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031626.g63GQki03656@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:26:46 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	menue.raw 
+Log Message:
+w3m prefers this
+
+
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:28:12 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:28:12 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031628.g63GSCN03749@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:28:12 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	search.raw kategorien.raw 
+Log Message:
+fix category selection in non-Javascript-capable browser
+
+
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:29:06 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:29:06 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031629.g63GT6903805@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:29:06 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	print.raw 
+Log Message:
+Code auditing: check for sane variable types.
+
+
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:29:48 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:29:48 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031629.g63GTmd03839@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:29:48 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	delete.raw 
+Log Message:
+Code auditing: check for sane variable types.
+
+
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:31:20 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:31:20 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031631.g63GVKD03977@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:31:20 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Code auditing: check for sane variable types.
+
+
+From lestinsky at sheep.berlios.de  Wed Jul  3 18:31:41 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 3 Jul 2002 18:31:41 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207031631.g63GVft03996@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul  3 18:31:41 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	auth.raw 
+Log Message:
+Code auditing: check for sane variable types.
+
+
+From lestinsky at sheep.berlios.de  Thu Jul  4 04:01:03 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 4 Jul 2002 04:01:03 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207040201.g64213C05457@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Jul  4 04:01:03 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Tue Jul 16 20:16:42 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 16 Jul 2002 20:16:42 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207161816.g6GIGgl16661@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jul 16 20:16:42 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	defines.raw 
+Log Message:
+beta3
+
+
+
+From lestinsky at sheep.berlios.de  Tue Jul 16 20:17:18 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 16 Jul 2002 20:17:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207161817.g6GIHIe16702@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jul 16 20:17:18 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat Jul 20 12:11:40 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 20 Jul 2002 12:11:40 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207201011.g6KABe115373@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Jul 20 12:11:40 CEST 2002
+
+Update of src
+
+Modified Files:
+	INSTALL 
+Log Message:
+Suggestions by Eric Vaandering <ewv at fnal.gov>
+
+
+From lestinsky at sheep.berlios.de  Sun Jul 21 04:00:40 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 21 Jul 2002 04:00:40 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207210200.g6L20er30211@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Jul 21 04:00:40 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From vondo at sheep.berlios.de  Sun Jul 21 04:43:53 2002
+From: vondo at sheep.berlios.de (Eric Vaandering at BerliOS)
+Date: Sun, 21 Jul 2002 04:43:53 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207210243.g6L2hrP01065@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: vondo
+Date: Sun Jul 21 04:43:53 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	en.inc 
+Log Message:
+Correcting some minor issues with the English translation
+
+
+
+From lestinsky at sheep.berlios.de  Sun Jul 21 12:48:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 21 Jul 2002 12:48:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207211048.g6LAmBG24775@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Jul 21 12:48:11 CEST 2002
+
+Update of src/man/man1
+
+Modified Files:
+	mmimport.1.raw 
+Log Message:
+Sync
+
+
+From lestinsky at sheep.berlios.de  Mon Jul 22 04:00:40 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 22 Jul 2002 04:00:40 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207220200.g6M20ea12777@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Jul 22 04:00:40 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Mon Jul 22 13:28:47 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 22 Jul 2002 13:28:47 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207221128.g6MBSlj08967@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Jul 22 13:28:47 CEST 2002
+
+Update of src/Documentation
+
+Modified Files:
+	PHP.txt 
+Log Message:
+Typo
+
+
+From lestinsky at sheep.berlios.de  Tue Jul 23 04:00:37 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 23 Jul 2002 04:00:37 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207230200.g6N20bY24124@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jul 23 04:00:37 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Tue Jul 30 14:51:59 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 30 Jul 2002 14:51:59 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207301251.g6UCpxS13846@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jul 30 14:51:59 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	defines.raw 
+Log Message:
+0.7.0
+
+
+From lestinsky at sheep.berlios.de  Tue Jul 30 14:52:57 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 30 Jul 2002 14:52:57 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207301252.g6UCqvb13865@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Jul 30 14:52:57 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Wed Jul 31 20:26:45 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Jul 2002 20:26:45 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207311826.g6VIQj312427@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 31 20:26:45 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	defines.raw 
+Log Message:
+Tag as 0.8-devel
+
+
+From lestinsky at sheep.berlios.de  Wed Jul 31 22:50:54 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Jul 2002 22:50:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207312050.g6VKosl17778@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 31 22:50:54 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc en.inc 
+Log Message:
+Use the pastebox to copy&paste single preformatted recipes in Meal-Master
+or RezKonv-Format and display the result in the menu editor for further
+manual mangling.
+
+
+From lestinsky at sheep.berlios.de  Wed Jul 31 22:50:54 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Jul 2002 22:50:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200207312050.g6VKosf17788@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Jul 31 22:50:54 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	Makefile.raw einfuegen.raw 
+Added Files:
+	pastebox.raw 
+Log Message:
+Use the pastebox to copy&paste single preformatted recipes in Meal-Master
+or RezKonv-Format and display the result in the menu editor for further
+manual mangling.
+
+
+From lestinsky at sheep.berlios.de  Thu Aug  1 04:00:31 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 1 Aug 2002 04:00:31 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208010200.g7120Vu15077@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Aug  1 04:00:31 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat Aug  3 12:14:58 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 3 Aug 2002 12:14:58 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208031014.g73AEwk14547@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  3 12:14:58 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	lang.raw 
+Log Message:
+Setting LC_ALL was to much. Limit it to LC_TIME for the moment.
+
+
+From lestinsky at sheep.berlios.de  Sat Aug  3 12:16:17 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 3 Aug 2002 12:16:17 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208031016.g73AGHp14680@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  3 12:16:17 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	lang.raw 
+Log Message:
+Pull in fix from current.
+
+
+From lestinsky at sheep.berlios.de  Sat Aug  3 16:59:35 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 3 Aug 2002 16:59:35 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208031459.g73ExZJ26315@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  3 16:59:35 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Fix another bug, reported by Beate Franken <beate at jfranken.de>
+
+
+From lestinsky at sheep.berlios.de  Sat Aug  3 17:00:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 3 Aug 2002 17:00:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208031500.g73F0Bi28161@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  3 17:00:11 CEST 2002
+
+Update of src
+
+Modified Files:
+	INSTALL 
+Log Message:
+rather use mmimport -C when recreating your database
+
+
+From lestinsky at sheep.berlios.de  Sat Aug  3 17:02:31 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 3 Aug 2002 17:02:31 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208031502.g73F2Vi29970@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  3 17:02:31 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	functions.raw 
+Log Message:
+Fix error reported by Beate Franken <beate at jfranken.de>,
+pulled in from current
+
+
+From lestinsky at sheep.berlios.de  Sat Aug  3 17:03:51 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 3 Aug 2002 17:03:51 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208031503.g73F3p630030@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug  3 17:03:51 CEST 2002
+
+Update of src
+
+Modified Files:
+      Tag: koch-suite_0_7
+	INSTALL 
+Log Message:
+fix updating instructions. Pulled in from current.
+
+
+From lestinsky at sheep.berlios.de  Sun Aug  4 04:00:26 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 4 Aug 2002 04:00:26 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208040200.g7420Q008800@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug  4 04:00:26 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 00:20:32 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 00:20:32 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208102220.g7AMKWZ00834@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 00:20:32 CEST 2002
+
+Update of src
+
+Modified Files:
+	Makefile 
+Log Message:
+Remove useless code
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 00:21:17 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 00:21:17 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208102221.g7AMLHG00883@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 00:21:17 CEST 2002
+
+Update of src
+
+Modified Files:
+	README 
+Log Message:
+the 'preparation' instructions, of course.
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 00:23:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 00:23:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208102223.g7AMNBF00908@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 00:23:11 CEST 2002
+
+Update of src
+
+Modified Files:
+	configure 
+Log Message:
+Add a Makefile for man/man1 and use it.
+
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 00:23:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 00:23:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208102223.g7AMNBx00928@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 00:23:11 CEST 2002
+
+Update of src/man/man1
+
+Added Files:
+	Makefile.raw 
+Log Message:
+Add a Makefile for man/man1 and use it.
+
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 00:23:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 00:23:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208102223.g7AMNBD00918@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 00:23:11 CEST 2002
+
+Update of src/man
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+Add a Makefile for man/man1 and use it.
+
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 04:00:20 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 04:00:20 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208110200.g7B20Kq16308@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 04:00:20 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 22:57:57 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 22:57:57 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208112057.g7BKvv104524@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 22:57:57 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	en.inc parser.raw 
+Log Message:
+Use the same naming convention for all patterns.
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 22:58:34 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 22:58:34 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208112058.g7BKwYt04554@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 22:58:34 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc 
+Log Message:
+Use the same naming convention for all patterns. Improve the pattern.
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 23:04:47 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 23:04:47 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208112104.g7BL4lA04751@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 23:04:47 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	de.inc en.inc parser.raw 
+Log Message:
+Pull in changes from current
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 23:11:48 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 23:11:48 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208112111.g7BLBmO04996@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 23:11:48 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc 
+Log Message:
+test for word boundaries, or /Ref/ might match more than it should.
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 11 23:12:41 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Aug 2002 23:12:41 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208112112.g7BLCfa05029@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 11 23:12:41 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	de.inc 
+Log Message:
+And another fix.
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 12 04:00:18 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 12 Aug 2002 04:00:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208120200.g7C20IX31216@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 12 04:00:18 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:19:16 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:19:16 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161019.g7GAJGI21114@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:19:16 CEST 2002
+
+Update of www
+
+Log Message:
+Init.
+
+Status:
+
+Vendor Tag:	lestinsky
+Release Tags:	init
+		
+
+No conflicts created by this import
+
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:22:18 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:22:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161022.g7GAMI121273@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:22:18 CEST 2002
+
+Update of www
+
+Added Files:
+	blue_dot.gif index.html.de index.html.en styles.css title.gif 
+Log Message:
+Import project webpages
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:23:19 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:23:19 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161023.g7GANJD21286@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:23:19 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de index.html.en 
+Log Message:
+$Id$
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:30:33 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:30:33 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161030.g7GAUX821592@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:30:33 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de 
+Log Message:
+More
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:31:40 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:31:40 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161031.g7GAVev21617@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:31:40 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de 
+Log Message:
+Close <ul>
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:33:02 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:33:02 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161033.g7GAX2121635@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:33:02 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.en 
+Log Message:
+Sync
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:48:46 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:48:46 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161048.g7GAmkF22047@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:48:46 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de index.html.en styles.css 
+Log Message:
+more
+
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:51:36 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:51:36 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161051.g7GApaB22156@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:51:36 CEST 2002
+
+Update of www
+
+Modified Files:
+	styles.css 
+Log Message:
+somewhat lighter. looks nicer.
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:59:18 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:59:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161059.g7GAxIp22303@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:59:18 CEST 2002
+
+Update of www
+
+Added Files:
+	lightblue_dot.gif 
+Log Message:
+A lighter variation of bluedot.gif
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 12:59:40 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 12:59:40 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161059.g7GAxeb22316@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 12:59:40 CEST 2002
+
+Update of www
+
+Modified Files:
+	title.gif 
+Log Message:
+Add transparency
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 13:00:36 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 13:00:36 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161100.g7GB0aM22456@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 13:00:36 CEST 2002
+
+Update of www
+
+Modified Files:
+	styles.css 
+Log Message:
+Add $Id$; make it another bit nicer.
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 13:27:22 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 13:27:22 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161127.g7GBRMQ23211@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 13:27:22 CEST 2002
+
+Update of www
+
+Added Files:
+	todo.txt 
+Log Message:
+Roadmap
+
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 13:35:38 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 13:35:38 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161135.g7GBZcU23440@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 13:35:38 CEST 2002
+
+Update of www
+
+Modified Files:
+	todo.txt 
+Log Message:
+More
+
+
+From lestinsky at sheep.berlios.de  Fri Aug 16 19:06:12 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 16 Aug 2002 19:06:12 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208161706.g7GH6C909765@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Aug 16 19:06:12 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	admin.raw delete.raw einfuegen.raw help.raw index.raw 
+	infos.raw logout.raw pastebox.raw rezept.raw search.raw 
+	settings.raw 
+Log Message:
+expand paths for include()s and require()s for security reasons. We do not on the settings of include_path this way.
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 17 04:01:05 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 17 Aug 2002 04:01:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208170201.g7H215314333@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 17 04:01:05 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:46:50 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:46:50 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181346.g7IDkoY05309@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:46:50 CEST 2002
+
+Update of src/www
+
+Added Files:
+	footer.raw 
+Log Message:
+use a unified footer for all pages
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:47:39 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:47:39 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181347.g7IDld605326@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:47:39 CEST 2002
+
+Update of src/www/pics
+
+Modified Files:
+	title.gif 
+Log Message:
+Add transparency
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:50:54 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:50:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181350.g7IDosO05432@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:50:54 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	search.raw 
+Log Message:
+use footer.inc
+Enable "marking" of recipes for further operations (this will come soon.)
+
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:51:38 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:51:38 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181351.g7IDpcC05446@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:51:38 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc en.inc 
+Log Message:
+Sync
+
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:52:46 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:52:46 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181352.g7IDqkS05463@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:52:46 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw 
+Log Message:
+Set english to default
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:54:28 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:54:28 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181354.g7IDsSe05481@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:54:28 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	styles.css 
+Log Message:
+Improve design
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:56:25 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:56:25 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181356.g7IDuPi05583@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:56:25 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	Makefile.raw admin.raw delete.raw edit_alias.raw einfuegen.raw 
+	help.raw index.raw infos.raw kategorien.raw logout.raw 
+	mmprint.raw pastebox.raw print.raw rezept.raw settings.raw 
+	units.raw 
+Log Message:
+Use footer.inc
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 18 15:57:23 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 18 Aug 2002 15:57:23 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208181357.g7IDvN605603@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 18 15:57:22 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	loginform.raw 
+Log Message:
+Use footer.inc
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 04:01:05 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 04:01:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208190201.g7J215W23685@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 04:01:05 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 12:41:38 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 12:41:38 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191041.g7JAfch24671@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 12:41:38 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de 
+Log Message:
+Language
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 12:48:16 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 12:48:16 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191048.g7JAmG624859@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 12:48:16 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de index.html.en 
+Log Message:
+note PDF export and language
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 13:30:14 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 13:30:14 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191130.g7JBUE228769@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 13:30:14 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	defines.raw 
+Log Message:
+Bump version to 0.7.1
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 14:33:41 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 14:33:41 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191233.g7JCXfg00597@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 14:33:41 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de index.html.en 
+Log Message:
+0.7.1
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 20:11:19 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 20:11:19 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191811.g7JIBJK15686@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 20:11:19 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	search.raw 
+Log Message:
+Enable unmarking recipes.
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 20:11:51 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 20:11:51 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191811.g7JIBpG15700@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 20:11:51 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	rezept.raw 
+Log Message:
+Enable marking recipes from here, too
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 20:12:34 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 20:12:34 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191812.g7JICYG15723@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 20:12:34 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	delete.raw 
+Log Message:
+Remove deleted recipes from the cached data, too
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 20:13:12 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 20:13:12 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191813.g7JIDCk15744@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 20:13:12 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	en.inc de.inc 
+Log Message:
+Sync
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 20:14:05 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 20:14:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191814.g7JIE5B15774@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 20:14:05 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	actions.raw 
+Log Message:
+use $result_id if availible
+
+
+From lestinsky at sheep.berlios.de  Mon Aug 19 20:15:06 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 19 Aug 2002 20:15:06 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208191815.g7JIF6N15915@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Aug 19 20:15:05 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	output.raw 
+Log Message:
+Format header
+
+
+From lestinsky at sheep.berlios.de  Tue Aug 20 04:01:08 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 20 Aug 2002 04:01:08 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208200201.g7K218c12204@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Aug 20 04:01:08 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 24 11:49:54 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 24 Aug 2002 11:49:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208240949.g7O9nst27468@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 24 11:49:54 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	search.raw 
+Log Message:
+Inspirations by Heiner Otterstedt <heiner at otterstedt.de
+allow using more than one search area, e.g. in menu titles and ingredients...
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 24 11:50:24 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 24 Aug 2002 11:50:24 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208240950.g7O9oO727561@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 24 11:50:24 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	kategorien.raw 
+Log Message:
+Sync
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 24 11:51:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 24 Aug 2002 11:51:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208240951.g7O9pBm27579@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 24 11:51:11 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Log error and return false if using undefined search area
+
+
+From lestinsky at sheep.berlios.de  Sun Aug 25 04:01:04 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 25 Aug 2002 04:01:04 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208250201.g7P214318249@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Aug 25 04:01:04 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 00:06:22 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 00:06:22 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208302206.g7UM6M401292@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 00:06:22 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	print.raw 
+Log Message:
+Fix
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 00:07:22 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 00:07:22 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208302207.g7UM7Mb01581@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 00:07:22 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	es.inc 
+Log Message:
+New spanish version, submitted by Vicente Ruiz <vjrj at terra.es>
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 00:07:23 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 00:07:23 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208302207.g7UM7NE01591@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 00:07:22 CEST 2002
+
+Update of src
+
+Modified Files:
+	init_db.mysql 
+Log Message:
+New spanish version, submitted by Vicente Ruiz <vjrj at terra.es>
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 00:09:16 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 00:09:16 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208302209.g7UM9GH01682@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 00:09:16 CEST 2002
+
+Update of src/www
+
+Modified Files:
+      Tag: koch-suite_0_7
+	print.raw 
+Log Message:
+Fix, pulled in from current
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 00:10:28 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 00:10:28 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208302210.g7UMASA01814@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 00:10:28 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	es.inc 
+Log Message:
+New spanish version, submitted by Vicente Ruiz <vjrj at terra.es>; pulled in from current
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 00:11:23 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 00:11:23 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208302211.g7UMBNr01853@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 00:11:23 CEST 2002
+
+Update of src
+
+Modified Files:
+      Tag: koch-suite_0_7
+	init_db.mysql 
+Log Message:
+New spanish version, submitted by Vicente Ruiz <vjrj at terra.es>; pulled in from current
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 04:01:08 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 04:01:08 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208310201.g7V218a02841@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 04:01:08 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From bus at sheep.berlios.de  Sat Aug 31 09:16:18 2002
+From: bus at sheep.berlios.de (Michael Bussmann at BerliOS)
+Date: Sat, 31 Aug 2002 09:16:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208310716.g7V7GIr04799@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: bus
+Date: Sat Aug 31 09:16:18 CEST 2002
+
+Update of src
+
+Modified Files:
+	init_db.pgsql 
+Log Message:
+Incorporated spanish language
+
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:46:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:46:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311746.g7VHkB009193@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:46:11 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	setup.raw 
+Log Message:
+load nocache.inc from here
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:46:30 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:46:30 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311746.g7VHkUU09215@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:46:30 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	nocache.raw 
+Log Message:
+Better
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:46:54 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:46:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311746.g7VHksD09231@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:46:54 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	output.raw 
+Log Message:
+Better LaTeX
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:48:08 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:48:08 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311748.g7VHm8Q09260@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:48:08 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+New parameter for write_db: set the menu id
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:48:58 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:48:58 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311748.g7VHmw609286@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:48:58 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	actions.raw 
+Log Message:
+Enable printing and export of tagged recipes
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:49:42 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:49:42 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311749.g7VHng609316@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:49:42 CEST 2002
+
+Update of src/commands
+
+Modified Files:
+	mmimport.raw 
+Log Message:
+Sync
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:51:25 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:51:25 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311751.g7VHpPc09499@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:51:25 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	settings.raw pastebox.raw logout.raw login.raw index.raw 
+	edit_alias.raw einfuegen.raw admin.raw 
+Log Message:
+Don't load nocache.inc from here
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:54:13 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:54:13 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311754.g7VHsDe09813@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:54:13 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	print.raw mmprint.raw 
+Log Message:
+Enable Prining and Export of tagged recipes
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:56:21 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:56:21 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311756.g7VHuLU10505@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:56:21 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	delete.raw rezept.raw search.raw 
+Log Message:
+Rename "Marking" to "Tagging" as this makes it a little more clear.
+
+
+From lestinsky at sheep.berlios.de  Sat Aug 31 19:56:21 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 31 Aug 2002 19:56:21 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208311756.g7VHuLh10495@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Aug 31 19:56:21 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc en.inc 
+Log Message:
+Rename "Marking" to "Tagging" as this makes it a little more clear.
+
+
+From lestinsky at sheep.berlios.de  Sun Sep  1 01:47:38 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 1 Sep 2002 01:47:38 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200208312347.g7VNlcv20147@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep  1 01:47:38 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	mmprint.raw 
+Log Message:
+Oops
+
+
+From lestinsky at sheep.berlios.de  Sun Sep  1 04:01:12 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 1 Sep 2002 04:01:12 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209010201.g8121C118535@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep  1 04:01:11 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Mon Sep  2 00:39:12 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 2 Sep 2002 00:39:12 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209012239.g81MdCX06015@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep  2 00:39:12 CEST 2002
+
+Update of src
+
+Modified Files:
+	README 
+Log Message:
+PHP 4.2 is needed now
+
+
+From lestinsky at sheep.berlios.de  Mon Sep  2 00:41:06 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 2 Sep 2002 00:41:06 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209012241.g81Mf6J06228@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep  2 00:41:06 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Gosh, the php guys don't get anything done right. Here's our own version of array_merge
+
+
+From lestinsky at sheep.berlios.de  Mon Sep  2 00:42:12 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 2 Sep 2002 00:42:12 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209012242.g81MgCo06248@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep  2 00:42:12 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	admin.raw edit_alias.raw einfuegen.raw kategorien.raw 
+	pastebox.raw rezept.raw search.raw settings.raw styles.css 
+	units.raw 
+Log Message:
+Add style
+
+
+From lestinsky at sheep.berlios.de  Mon Sep  2 04:01:14 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 2 Sep 2002 04:01:14 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209020201.g8221Ew27268@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep  2 04:01:14 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From michael at lestinsky.de  Mon Sep  2 00:44:55 2002
+From: michael at lestinsky.de (Michael Lestinsky)
+Date: Mon, 2 Sep 2002 00:44:55 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+In-Reply-To: <200209012241.g81Mf6J06228@sheep.berlios.de>; from lestinsky@sheep.berlios.de on Mon, Sep 02, 2002 at 12:41:06AM +0200
+References: <200209012241.g81Mf6J06228@sheep.berlios.de>
+Message-ID: <20020902004455.A33060@zaphod.rhein-neckar.de>
+
+Am 02.09.'02 schrieb Michael Lestinsky at BerliOS:
+> Koch-Suite - CVS Loginfo:
+> ~~~~~~~~~~~~~~~~~~~~~~~~~
+> User: lestinsky
+> Date: Mon Sep  2 00:41:06 CEST 2002
+> 
+> Update of src/include
+> 
+> Modified Files:
+> 	functions.raw 
+> Log Message:
+> Gosh, the php guys don't get anything done right. Here's our own version of array_merge
+
+I should have noted, this is the reason we need PHP>=4.2.0 now.
+
+-- 
+Wenn die Zuh?lter und Diebe immer und ?berall verurteilt w?rdern, hielten
+sich ja alle rechtschaffenen Leute st?ndig f?r unschuldig! Und meiner 
+Meinung nach mu? gerade das verhindert werden.
+    (Albert Camus - Der Fall)
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 238 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20020902/736426fa/attachment.pgp>
+
+From lestinsky at sheep.berlios.de  Tue Sep  3 13:53:23 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 3 Sep 2002 13:53:23 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209031153.g83BrNc30816@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep  3 13:53:23 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de index.html.en 
+Log Message:
+Update download links
+
+
+From lestinsky at sheep.berlios.de  Tue Sep  3 21:36:27 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 3 Sep 2002 21:36:27 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209031936.g83JaRd23644@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep  3 21:36:27 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	loginform.raw 
+Log Message:
+Add style
+
+
+From lestinsky at sheep.berlios.de  Tue Sep  3 23:19:25 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 3 Sep 2002 23:19:25 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209032119.g83LJPh26782@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep  3 23:19:25 CEST 2002
+
+Update of src
+
+Modified Files:
+	README 
+Log Message:
+Send me recipes
+
+
+From lestinsky at sheep.berlios.de  Tue Sep  3 23:20:27 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 3 Sep 2002 23:20:27 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209032120.g83LKRZ26875@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep  3 23:20:27 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw 
+Log Message:
+Allow turning on/off of global ops. Default is of
+
+
+From lestinsky at sheep.berlios.de  Tue Sep  3 23:20:27 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 3 Sep 2002 23:20:27 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209032120.g83LKRI26885@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep  3 23:20:27 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	actions.raw search.raw 
+Log Message:
+Allow turning on/off of global ops. Default is of
+
+
+From lestinsky at sheep.berlios.de  Wed Sep  4 04:01:10 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 4 Sep 2002 04:01:10 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209040201.g8421Ap17556@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Sep  4 04:01:09 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 15 16:28:06 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 15 Sep 2002 16:28:06 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209151428.g8FES6204091@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 15 16:28:06 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	search.raw 
+Log Message:
+Enable search in the instructions. Submitted by Heiner Otterstedt <heiner at otterstedt.de>
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 15 16:28:06 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 15 Sep 2002 16:28:06 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209151428.g8FES6d04101@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 15 16:28:06 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Enable search in the instructions. Submitted by Heiner Otterstedt <heiner at otterstedt.de>
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 15 16:29:13 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 15 Sep 2002 16:29:13 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209151429.g8FETDn04122@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 15 16:29:13 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc en.inc 
+Log Message:
+More
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 15 16:30:26 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 15 Sep 2002 16:30:26 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209151430.g8FEUQ604249@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 15 16:30:26 CEST 2002
+
+Update of src/Documentation
+
+Modified Files:
+	FAQ.txt 
+Log Message:
+Quote some mail Ric Burlet sent me about installation on Windows systems
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 15 16:31:21 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 15 Sep 2002 16:31:21 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209151431.g8FEVLo04269@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 15 16:31:21 CEST 2002
+
+Update of src
+
+Modified Files:
+	README 
+Log Message:
+Sync todo list and known bugs
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 16 04:01:06 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 16 Sep 2002 04:01:06 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209160201.g8G216E26866@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 16 04:01:06 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 16 22:48:34 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 16 Sep 2002 22:48:34 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209162048.g8GKmY431200@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 16 22:48:34 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw 
+Log Message:
+<?php instead of <?
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 16 22:51:15 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 16 Sep 2002 22:51:15 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209162051.g8GKpF131358@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 16 22:51:15 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc en.inc 
+Log Message:
+make the last searchresult accessible
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 16 22:51:15 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 16 Sep 2002 22:51:15 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209162051.g8GKpFx31368@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 16 22:51:15 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	actions.raw rezept.raw search.raw 
+Log Message:
+make the last searchresult accessible
+
+
+From lestinsky at sheep.berlios.de  Tue Sep 17 04:01:18 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 17 Sep 2002 04:01:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209170201.g8H21Ik28026@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep 17 04:01:17 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Wed Sep 18 00:42:35 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 18 Sep 2002 00:42:35 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209172242.g8HMgZf05284@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Sep 18 00:42:35 CEST 2002
+
+Update of src/www/pics
+
+Modified Files:
+	Makefile.raw left.gif right.gif 
+Added Files:
+	help_dot.gif lupe.gif ok.gif walking.gif write.gif 
+Log Message:
+New icons
+
+
+From lestinsky at sheep.berlios.de  Wed Sep 18 00:43:34 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 18 Sep 2002 00:43:34 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209172243.g8HMhYJ05302@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Sep 18 00:43:34 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	actions.raw menue.raw 
+Log Message:
+Use the new icons
+
+
+From lestinsky at sheep.berlios.de  Wed Sep 18 01:09:21 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 18 Sep 2002 01:09:21 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209172309.g8HN9Lq09893@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Sep 18 01:09:21 CEST 2002
+
+Update of www
+
+Modified Files:
+	index.html.de 
+Log Message:
+Typo
+
+
+From lestinsky at sheep.berlios.de  Wed Sep 18 04:01:05 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 18 Sep 2002 04:01:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209180201.g8I215e24006@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Sep 18 04:01:05 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 23 23:46:20 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 23 Sep 2002 23:46:20 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209232146.g8NLkKV24146@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 23 23:46:20 CEST 2002
+
+Update of src/www
+
+Added Files:
+	header.raw 
+Log Message:
+HTML header template.
+$page_title sets the <title> of the generated page.
+$no_tabular disables the menu.
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 23 23:46:45 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 23 Sep 2002 23:46:45 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209232146.g8NLkj824160@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 23 23:46:45 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	Makefile.raw 
+Log Message:
++header.inc
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 23 23:47:19 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 23 Sep 2002 23:47:19 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209232147.g8NLlJo24174@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 23 23:47:19 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	actions.raw 
+Log Message:
+Use $result_id when it makes sense
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 23 23:48:14 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 23 Sep 2002 23:48:14 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209232148.g8NLmEP24188@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 23 23:48:14 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	mmprint.raw 
+Log Message:
+Use actions.inc and header.inc; this enables browsing through recipes as in rezept.php
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 23 23:48:57 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 23 Sep 2002 23:48:57 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209232148.g8NLmvT24202@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 23 23:48:57 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	admin.raw delete.raw edit_alias.raw einfuegen.raw footer.raw 
+	help.raw index.raw infos.raw kategorien.raw logout.raw 
+	pastebox.raw print.raw rezept.raw search.raw settings.raw 
+	units.raw 
+Log Message:
+Use header.inc
+
+
+From lestinsky at sheep.berlios.de  Tue Sep 24 04:01:05 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Tue, 24 Sep 2002 04:01:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209240201.g8O215a15885@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Tue Sep 24 04:01:05 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From bus at sheep.berlios.de  Thu Sep 26 10:56:15 2002
+From: bus at sheep.berlios.de (Michael Bussmann at BerliOS)
+Date: Thu, 26 Sep 2002 10:56:15 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209260856.g8Q8uFi09365@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: bus
+Date: Thu Sep 26 10:56:15 CEST 2002
+
+Update of src
+
+Modified Files:
+	configure INSTALL 
+Log Message:
+Fixed two typos
+
+
+
+From bus at sheep.berlios.de  Thu Sep 26 10:56:42 2002
+From: bus at sheep.berlios.de (Michael Bussmann at BerliOS)
+Date: Thu, 26 Sep 2002 10:56:42 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209260856.g8Q8ugS09379@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: bus
+Date: Thu Sep 26 10:56:42 CEST 2002
+
+Update of src
+
+Modified Files:
+	init_db.pgsql 
+Log Message:
+Using integer instead of smallint
+
+
+
+From lestinsky at sheep.berlios.de  Fri Sep 27 04:01:18 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 27 Sep 2002 04:01:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209270201.g8R21Ia21646@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Sep 27 04:01:18 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From bus at sheep.berlios.de  Fri Sep 27 13:45:28 2002
+From: bus at sheep.berlios.de (Michael Bussmann at BerliOS)
+Date: Fri, 27 Sep 2002 13:45:28 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209271145.g8RBjSC24655@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: bus
+Date: Fri Sep 27 13:45:28 CEST 2002
+
+Update of src/commands
+
+Modified Files:
+	Makefile.raw 
+Added Files:
+	init_db.raw 
+Log Message:
+First attempt in writing an unified table-generation script
+
+
+
+From lestinsky at sheep.berlios.de  Sat Sep 28 04:01:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 28 Sep 2002 04:01:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209280201.g8S21BV22696@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Sep 28 04:01:04 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:34:11 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:34:11 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292034.g8TKYB703451@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:34:11 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	parser.raw 
+Log Message:
+Fix two errors, reported by Thomas Mueller <tmm at tmueller.com>
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:34:31 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:34:31 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292034.g8TKYV503465@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:34:31 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	loginform.raw 
+Log Message:
+Use header.inc
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:35:16 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:35:16 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292035.g8TKZGW03563@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:35:16 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	en.inc 
+Log Message:
+And another one
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:35:38 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:35:38 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292035.g8TKZc703577@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:35:38 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	de.inc 
+Log Message:
+And another one, tweak patterns
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:36:05 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:36:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292036.g8TKa5Y03591@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:36:05 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	auth.raw 
+Log Message:
+ is a global array
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:42:25 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:42:25 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292042.g8TKgPC03762@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:42:25 CEST 2002
+
+Update of src
+
+Modified Files:
+      Tag: koch-suite_0_7
+	ChangeLog 
+Log Message:
+#Sync
+
+
+From lestinsky at sheep.berlios.de  Sun Sep 29 22:46:02 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 29 Sep 2002 22:46:02 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209292046.g8TKk2S03915@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Sep 29 22:46:02 CEST 2002
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_7
+	parser.raw 
+Log Message:
+Merge in fix from -current (1.3 -> 1.4)
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 30 04:01:04 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 30 Sep 2002 04:01:04 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209300201.g8U214t01788@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 30 04:01:04 CEST 2002
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 30 19:26:52 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 30 Sep 2002 19:26:52 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209301726.g8UHQqa04803@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 30 19:26:52 CEST 2002
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+(Nearly) fix 'AND' when searching through multiple fields
+
+
+From lestinsky at sheep.berlios.de  Mon Sep 30 19:27:41 2002
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 30 Sep 2002 19:27:41 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <200209301727.g8UHRfB04818@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Sep 30 19:27:41 CEST 2002
+
+Update of src/www
+
+Modified Files:
+	search.raw einfuegen.raw 
+Log Message:
+Fix Javascript
+
+

@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Koch-Suite-changes] CVS-Log: Koch-Suite
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/koch-suite-changes/2005q2/index.html" >
+   <LINK REL="made" HREF="mailto:koch-suite-changes%40lists.berlios.de?Subject=Re%3A%20%5BKoch-Suite-changes%5D%20CVS-Log%3A%20Koch-Suite&In-Reply-To=%3C424FFAAF.mail2HJ11VN18%40sheep.berlios.de%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000601.html">
+   <LINK REL="Next"  HREF="000595.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Koch-Suite-changes] CVS-Log: Koch-Suite</H1>
+    <B>Michael Lestinsky at BerliOS</B> 
+    <A HREF="mailto:koch-suite-changes%40lists.berlios.de?Subject=Re%3A%20%5BKoch-Suite-changes%5D%20CVS-Log%3A%20Koch-Suite&In-Reply-To=%3C424FFAAF.mail2HJ11VN18%40sheep.berlios.de%3E"
+       TITLE="[Koch-Suite-changes] CVS-Log: Koch-Suite">lestinsky at sheep.berlios.de
+       </A><BR>
+    <I>Sun Apr  3 16:16:15 CEST 2005</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000601.html">[Koch-Suite-changes] CVS-Log: Koch-Suite
+</A></li>
+        <LI>Next message: <A HREF="000595.html">[Koch-Suite-changes] CVS-Log: Koch-Suite
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#600">[ date ]</a>
+              <a href="thread.html#600">[ thread ]</a>
+              <a href="subject.html#600">[ subject ]</a>
+              <a href="author.html#600">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:16:15 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	einfuegen.raw 
+Log Message:
+Extend database format a little. Ingredient quantities may now be given in
+ranges, such as:
+
+200-400 g  Sugar
+
+This is supported for RK- and MM-Import, -Export and for manually typing
+in recipes.
+
+The MM-format doesn't support this, so we have to use a workaround here,
+which would look like the following:
+
+    200  g (-400) Sugar
+
+To update your database use the following SQL-commands:
+
+alter table ZUTATEN change MENGE MENGE_LO decimal(8,3);
+alter table ZUTATEN add MENGE_HI decimal(8,3) after MENGE_LO;
+
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000601.html">[Koch-Suite-changes] CVS-Log: Koch-Suite
+</A></li>
+	<LI>Next message: <A HREF="000595.html">[Koch-Suite-changes] CVS-Log: Koch-Suite
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#600">[ date ]</a>
+              <a href="thread.html#600">[ thread ]</a>
+              <a href="subject.html#600">[ subject ]</a>
+              <a href="author.html#600">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/koch-suite-changes">More information about the Koch-Suite-changes
+mailing list</a><br>
+</body></html>

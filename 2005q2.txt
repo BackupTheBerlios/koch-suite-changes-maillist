@@ -1,0 +1,611 @@
+From lestinsky at sheep.berlios.de  Mon Apr  4 04:01:10 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 04 Apr 2005 04:01:10 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <42509FE6.mail8K1HK2PF@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon Apr  4 04:01:10 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:08:51 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:08:51 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FF8F3.mail29P11UXHU@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:08:51 CEST 2005
+
+Update of src/commands
+
+Modified Files:
+	rezept.raw 
+Log Message:
+argc-Fix
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:05:27 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:05:27 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FF827.mail25B11D7XG@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:05:27 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	search.raw 
+Log Message:
+Allow passing of arguments via GET, too
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:04:49 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:04:49 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FF801.mail2441N320N@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:04:49 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	styles.css 
+Log Message:
+More style
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:07:35 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:07:35 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FF8A7.mail26N11FDJD@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:07:35 CEST 2005
+
+Update of src/commands
+
+Modified Files:
+	mmimport.raw 
+Log Message:
+Also give out Rezkonv-formated parser test results
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:16:15 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:16:15 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FFAAF.mail2HJ11VN18@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:16:15 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	einfuegen.raw 
+Log Message:
+Extend database format a little. Ingredient quantities may now be given in
+ranges, such as:
+
+200-400 g  Sugar
+
+This is supported for RK- and MM-Import, -Export and for manually typing
+in recipes.
+
+The MM-format doesn't support this, so we have to use a workaround here,
+which would look like the following:
+
+    200  g (-400) Sugar
+
+To update your database use the following SQL-commands:
+
+alter table ZUTATEN change MENGE MENGE_LO decimal(8,3);
+alter table ZUTATEN add MENGE_HI decimal(8,3) after MENGE_LO;
+
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:16:14 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:16:14 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FFAAE.mail2HD1SKCVK@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:16:14 CEST 2005
+
+Update of src/include
+
+Modified Files:
+	functions.raw output.raw parser.raw 
+Log Message:
+Extend database format a little. Ingredient quantities may now be given in
+ranges, such as:
+
+200-400 g  Sugar
+
+This is supported for RK- and MM-Import, -Export and for manually typing
+in recipes.
+
+The MM-format doesn't support this, so we have to use a workaround here,
+which would look like the following:
+
+    200  g (-400) Sugar
+
+To update your database use the following SQL-commands:
+
+alter table ZUTATEN change MENGE MENGE_LO decimal(8,3);
+alter table ZUTATEN add MENGE_HI decimal(8,3) after MENGE_LO;
+
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 04:01:17 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 04:01:17 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424F4E6D.mail9TW11FAEE@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 04:01:17 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Apr  3 16:03:49 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 03 Apr 2005 16:03:49 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424FF7C5.mail22L11L8NP@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr  3 16:03:49 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	styles_summer.css 
+Log Message:
+More style
+
+
+From bus at sheep.berlios.de  Sat Apr  2 10:36:51 2005
+From: bus at sheep.berlios.de (Michael Bussmann at BerliOS)
+Date: Sat, 02 Apr 2005 10:36:51 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <424E59A3.mailO8Y11DRME@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: bus
+Date: Sat Apr  2 10:36:51 CEST 2005
+
+Update of src/include
+
+Modified Files:
+	en.inc es.inc fr.inc 
+Log Message:
+Added missing lang hashes (thanks to Wouter)
+
+
+
+From bus at sheep.berlios.de  Thu Apr  7 17:48:15 2005
+From: bus at sheep.berlios.de (Michael Bussmann at BerliOS)
+Date: Thu, 07 Apr 2005 17:48:15 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4255563F.mailFQ8117TB9@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: bus
+Date: Thu Apr  7 17:48:15 CEST 2005
+
+Update of src/commands
+
+Modified Files:
+	init_db.raw 
+Log Message:
+Adapted DB generation script to new schema
+
+
+
+From lestinsky at sheep.berlios.de  Fri Apr  8 04:06:11 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 08 Apr 2005 04:06:11 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4255E713.mailEI21S74PN@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Apr  8 04:06:08 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Wed Apr 13 23:53:58 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 13 Apr 2005 23:53:58 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <425D94F6.mail6K51S2J39@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Apr 13 23:53:58 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	actions.raw 
+Log Message:
+Replace a few hardcoded strings by their $Lang counterparts
+
+
+From lestinsky at sheep.berlios.de  Wed Apr 13 23:55:32 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 13 Apr 2005 23:55:32 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <425D9554.mail6LS1WKFJF@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Apr 13 23:55:32 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	rezept.raw 
+Log Message:
+Exiting php parser and imediatly entering it again doesn't make a lot of sense
+
+
+From lestinsky at sheep.berlios.de  Thu Apr 14 04:05:08 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 14 Apr 2005 04:05:08 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <425DCFD4.mailC6K11BE7Y@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Apr 14 04:05:04 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:19:24 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:19:24 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFD1C.mail8EH11CNEF@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:19:24 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	styles.css 
+Log Message:
+Small fixups to default style
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:21:13 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:21:13 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFD89.mail8HB117YA3@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:21:13 CEST 2005
+
+Update of src/www
+
+Added Files:
+	styles_passionfruit.css theme_passionfruit.raw 
+Log Message:
+New style: Passionfruit
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:21:13 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:21:13 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFD89.mail8HH117CAB@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:21:13 CEST 2005
+
+Update of src/www/pics
+
+Added Files:
+	passionfruit_small.png 
+Log Message:
+New style: Passionfruit
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:22:40 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:22:40 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFDE0.mail8ID117H5B@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:22:40 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+Enable hooks for passionfruit theme
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:22:40 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:22:40 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFDE0.mail8I51NOMGO@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:22:40 CEST 2005
+
+Update of src/www/pics
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+Enable hooks for passionfruit theme
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:25:55 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:25:55 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFEA3.mail8L711OVAX@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:25:55 CEST 2005
+
+Update of src/www
+
+Modified Files:
+	header.raw 
+Log Message:
+Add a right-aligned image to the title
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:27:21 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:27:21 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428EFEF9.mail8NF1K8BYL@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:27:21 CEST 2005
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw 
+Log Message:
+Enable passionfruit as default theme for this release
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:40:18 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:40:18 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428F0202.mail93I11APO9@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:40:18 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:54:26 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:54:26 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428F0552.mailA0C12EAO4@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:54:26 CEST 2005
+
+Update of src/www/pics
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+Oops. Remove entries which were never released
+
+
+From lestinsky at sheep.berlios.de  Sat May 21 11:56:31 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 21 May 2005 11:56:31 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428F05CF.mailA3U111BBG@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat May 21 11:56:31 CEST 2005
+
+Update of src/www/pics
+
+Modified Files:
+      Tag: koch-suite_0_8
+	Makefile.raw 
+Log Message:
+Oops. Remove entries which were never released
+
+
+From lestinsky at sheep.berlios.de  Sun May 22 04:01:50 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 22 May 2005 04:01:50 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <428FE80E.mail13H18PNXS@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun May 22 04:01:49 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun May 22 11:16:33 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 22 May 2005 11:16:33 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <42904DF1.mailBD11PSQD@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun May 22 11:16:33 CEST 2005
+
+Update of src/include
+
+Modified Files:
+      Tag: koch-suite_0_8
+	fr.inc 
+Log Message:
+Replace french special character htmlentities by their 8bit counterparts
+
+
+From lestinsky at sheep.berlios.de  Sun May 22 11:17:57 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 22 May 2005 11:17:57 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <42904E45.mailC411WN17@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun May 22 11:17:57 CEST 2005
+
+Update of src/commands
+
+Modified Files:
+      Tag: koch-suite_0_8
+	init_db.raw 
+Log Message:
+French units.
+Submitted by Philippe B?gou <pbegou at tele2.fr>, Thanks.
+
+
+From lestinsky at sheep.berlios.de  Sun May 22 11:19:05 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 22 May 2005 11:19:05 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <42904E89.mailE011U0MT@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun May 22 11:19:05 CEST 2005
+
+Update of src/www
+
+Modified Files:
+      Tag: koch-suite_0_8
+	header.raw 
+Log Message:
+Set the Content-Type header to ISO-8859-15 (as a temporary fix)
+
+
+From lestinsky at sheep.berlios.de  Mon May 23 04:01:15 2005
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Mon, 23 May 2005 04:01:15 +0200
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4291396B.mail1XD11I6AK@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Mon May 23 04:01:15 CEST 2005
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+

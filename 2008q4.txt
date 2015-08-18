@@ -1,0 +1,120 @@
+From lestinsky at mail.berlios.de  Sat Nov 29 02:34:04 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 29 Nov 2008 02:34:04 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <49309C0C.mailIK51C62CD@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Nov 29 02:34:04 CET 2008
+
+Update of src/commands
+
+Modified Files:
+	mmimport.raw 
+Log Message:
+single ticks, not double.
+
+
+From lestinsky at mail.berlios.de  Sat Nov 29 02:34:59 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 29 Nov 2008 02:34:59 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <49309C43.mailISR11KWSY@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Nov 29 02:34:59 CET 2008
+
+Update of src/man/man1
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+unbreak configuration and building on Mac OS X Leopard
+
+
+From lestinsky at mail.berlios.de  Sat Nov 29 02:34:58 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 29 Nov 2008 02:34:58 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <49309C42.mailIS81D9M6U@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Nov 29 02:34:58 CET 2008
+
+Update of src
+
+Modified Files:
+	configure 
+Log Message:
+unbreak configuration and building on Mac OS X Leopard
+
+
+From lestinsky at mail.berlios.de  Sat Nov 29 02:34:59 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 29 Nov 2008 02:34:59 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <49309C43.mailIT111X69X@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Nov 29 02:34:59 CET 2008
+
+Update of src/www
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+unbreak configuration and building on Mac OS X Leopard
+
+
+From lestinsky at mail.berlios.de  Sat Nov 29 02:34:58 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 29 Nov 2008 02:34:58 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <49309C42.mailISI11MAFH@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Nov 29 02:34:58 CET 2008
+
+Update of src/man
+
+Modified Files:
+	Makefile.raw 
+Log Message:
+unbreak configuration and building on Mac OS X Leopard
+
+
+From lestinsky at mail.berlios.de  Sat Nov 29 04:11:16 2008
+From: lestinsky at mail.berlios.de (lestinsky at BerliOS)
+Date: Sat, 29 Nov 2008 04:11:16 +0100
+Subject: [Koch-Suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4930B2D4.mail2V01S1Q9C@sheep.berlios.de>
+
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Nov 29 04:11:15 CET 2008
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+

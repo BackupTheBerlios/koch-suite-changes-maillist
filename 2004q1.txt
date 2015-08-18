@@ -1,0 +1,350 @@
+From lestinsky at sheep.berlios.de  Thu Feb  5 12:37:45 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 05 Feb 2004 12:37:45 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <40222B09.mailCBK11A09L@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Feb  5 12:37:45 CET 2004
+
+Update of src/commands
+
+Modified Files:
+	init_db.raw 
+Log Message:
+Fix table generation
+
+
+From lestinsky at sheep.berlios.de  Thu Feb  5 12:41:59 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 05 Feb 2004 12:41:59 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <40222C07.mailCVG15BBK7@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Feb  5 12:41:59 CET 2004
+
+Update of src/man/man1
+
+Modified Files:
+	rezept.1.raw 
+Log Message:
+Document Rezkonv export.
+
+
+
+From lestinsky at sheep.berlios.de  Thu Feb  5 12:45:16 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 05 Feb 2004 12:45:16 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <40222CCC.mailDH1111R6S@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Feb  5 12:45:16 CET 2004
+
+Update of src/www
+
+Modified Files:
+	rezept.raw delete.raw 
+Log Message:
+somehow artificially force this variable to an integer type
+
+
+From lestinsky at sheep.berlios.de  Fri Feb  6 04:01:04 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 06 Feb 2004 04:01:04 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <40230370.mail84X16AJM9@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Feb  6 04:01:04 CET 2004
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Fri Feb  6 15:40:30 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 06 Feb 2004 15:40:30 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4023A75E.mailCU81QNJO0@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Feb  6 15:40:30 CET 2004
+
+Update of src/www
+
+Modified Files:
+	search.raw 
+Log Message:
+Redo the layout of the searchresult presentation
+
+
+From lestinsky at sheep.berlios.de  Fri Feb  6 15:41:49 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 06 Feb 2004 15:41:49 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4023A7AD.mailCZ71DHUAF@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Feb  6 15:41:49 CET 2004
+
+Update of src/include
+
+Modified Files:
+	output.raw 
+Log Message:
+use less space in the presentation
+
+
+From lestinsky at sheep.berlios.de  Fri Feb  6 15:42:32 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Fri, 06 Feb 2004 15:42:32 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4023A7D8.mailD0S11C54M@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Fri Feb  6 15:42:32 CET 2004
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+test for pdflatex
+
+
+From lestinsky at sheep.berlios.de  Sat Feb  7 04:01:06 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 07 Feb 2004 04:01:06 +0100
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <402454F2.mailJ061NRI8J@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Feb  7 04:01:06 CET 2004
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From dwireclya at techemail.com  Wed Feb 18 14:53:28 2004
+From: dwireclya at techemail.com (Mohammad Lott)
+Date: Wed, 18 Feb 2004 14:53:28 +0100
+Subject: [Koch-suite-changes] This is what I found
+Message-ID: <200402181353.i1IDrRo09879@bat.berlios.de>
+
+<HTML>
+Hi Koch-suite-changes,
+<p>Fuel Saver Pro<br>This revolutionary device Boosts Gas Mileage 27%+ by helping 
+<br>fuel burn better using three patented processes from General Motors.<br><br>Take a test drive Today - <a href="http://www.magnifeye.biz?axel=45">Fuel Saver Pro</a><br><br>PROVEN TECHNOLOGY<br>A certified U.S. Environmental Protection Agency (EPA) laboratory recently completed tests on the new Fuel Saver.<br> The results were astounding! Master Service, a subsidiary of Ford Motor Company, also conducted extensive emissions testing and obtained similar, unheard of results. The achievements of the Fuel Saver is so noteworthy to the environmental community, that Commercial News has featured it as their cover story in their June, 2000 edition.<br><br>Take a test drive Today - <a href="http://www.magnifeye.biz?axel=45">Fuel Saver Pro</a><br>
+
+
+marimba coy abram bristol broadway occlusion showcase loomis carnegie glisten epsilon facet occlusive ratio allocable conscription becker countywide spikenard penthouse vreeland <br>
+<a href="http://www.oagf.biz/out6ss">No more ads</a><br>
+seventeen leadsman florin emirate bunk cinnabar twofold lit choice anode fraser wondrous simon vexation guffaw debacle verna awesome assailant busch responsive kaufman sequential drank fossiliferous scriptural showy keyes hardtack <br><br><br>
+
+Thanks,<br>
+elicit simmons<br>
+Mohammad Lott
+</HTML>
+
+From dwireclya at techemail.com  Wed Feb 18 14:53:58 2004
+From: dwireclya at techemail.com (Mohammad Lott)
+Date: Wed, 18 Feb 2004 14:53:58 +0100
+Subject: [Koch-suite-changes] This is what I found
+Message-ID: <200402181353.i1IDrro09898@bat.berlios.de>
+
+<HTML>
+Hi Koch-suite-changes,
+<p>Fuel Saver Pro<br>This revolutionary device Boosts Gas Mileage 27%+ by helping 
+<br>fuel burn better using three patented processes from General Motors.<br><br>Take a test drive Today - <a href="http://www.magnifeye.biz?axel=45">Fuel Saver Pro</a><br><br>PROVEN TECHNOLOGY<br>A certified U.S. Environmental Protection Agency (EPA) laboratory recently completed tests on the new Fuel Saver.<br> The results were astounding! Master Service, a subsidiary of Ford Motor Company, also conducted extensive emissions testing and obtained similar, unheard of results. The achievements of the Fuel Saver is so noteworthy to the environmental community, that Commercial News has featured it as their cover story in their June, 2000 edition.<br><br>Take a test drive Today - <a href="http://www.magnifeye.biz?axel=45">Fuel Saver Pro</a><br>
+
+
+marimba coy abram bristol broadway occlusion showcase loomis carnegie glisten epsilon facet occlusive ratio allocable conscription becker countywide spikenard penthouse vreeland <br>
+<a href="http://www.oagf.biz/out6ss">No more ads</a><br>
+seventeen leadsman florin emirate bunk cinnabar twofold lit choice anode fraser wondrous simon vexation guffaw debacle verna awesome assailant busch responsive kaufman sequential drank fossiliferous scriptural showy keyes hardtack <br><br><br>
+
+Thanks,<br>
+elicit simmons<br>
+Mohammad Lott
+</HTML>
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:18:18 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:18:18 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B197A.mailB591AZ2G9@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:18:18 CEST 2004
+
+Update of src/www
+
+Modified Files:
+	styles_summer.css 
+Log Message:
+This looks somewhat nicer on my FreeBSD installation,
+since my Arial font is a ttf which is antialiased and helvetica isn't.
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:21:20 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:21:20 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1A30.mailBCF11K4FA@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:21:20 CEST 2004
+
+Update of src/www
+
+Modified Files:
+	mmprint.raw 
+Log Message:
+Be less verbose, wipe one write_log() invocation.
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:23:01 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:23:01 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1A95.mailBG811UTJI@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:23:01 CEST 2004
+
+Update of src/include
+
+Modified Files:
+	output.raw 
+Log Message:
+If we had to crop the title to satisfy the length specifications
+of the format, append the original title at the end of the recipe.
+Suggested by Jan Dreyer.
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:24:33 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:24:33 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1AF1.mailBJN11AS5M@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:24:33 CEST 2004
+
+Update of src/www
+
+Modified Files:
+	einfuegen.raw 
+Log Message:
+Fix several bugs detected by Jan Dreyer
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:24:33 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:24:33 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1AF1.mailBJV1B8FSN@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:24:33 CEST 2004
+
+Update of src/include
+
+Modified Files:
+	parser.raw 
+Log Message:
+Fix several bugs detected by Jan Dreyer
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:26:39 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:26:39 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1B6F.mailBQ611MFZ8@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:26:39 CEST 2004
+
+Update of src/include
+
+Modified Files:
+	en.inc de.inc 
+Log Message:
+OrigTitle
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:27:53 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:27:53 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1BB9.mailBTV1ZU201@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:27:52 CEST 2004
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw 
+Log Message:
+There is no reason to 'compile' this value in.
+
+
+From lestinsky at sheep.berlios.de  Wed Mar 31 21:28:54 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Wed, 31 Mar 2004 21:28:54 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B1BF6.mailBXF11IGHR@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Wed Mar 31 21:28:54 CEST 2004
+
+Update of src/include
+
+Modified Files:
+	functions.raw 
+Log Message:
+Bugfixing, reported by Jan Dreyer
+
+

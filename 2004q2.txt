@@ -1,0 +1,171 @@
+From lestinsky at sheep.berlios.de  Thu Apr  1 04:01:05 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Thu, 01 Apr 2004 04:01:05 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <406B77E1.mailI3E111OAA@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Thu Apr  1 04:01:05 CEST 2004
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sat Apr 10 18:41:30 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 10 Apr 2004 18:41:30 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <407823BA.mailMMS11HDVP@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Apr 10 18:41:30 CEST 2004
+
+Update of src/www
+
+Modified Files:
+	print.raw 
+Log Message:
+Enable definition of a custom papersize as suggested by Jan Dreyer 
+You can specify your documentstyle options yourself now from 
+/etc/koch-suite.inc via LTX_DOCSTYLE_OPTION = "a4paper" or any other 
+legal optional parameter ("a5paper,10pt", "letter", ...).
+
+
+
+From lestinsky at sheep.berlios.de  Sat Apr 10 18:41:30 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sat, 10 Apr 2004 18:41:30 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <407823BA.mailMMN11W75O@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sat Apr 10 18:41:30 CEST 2004
+
+Update of src/include
+
+Modified Files:
+	koch-suite.raw output.raw 
+Log Message:
+Enable definition of a custom papersize as suggested by Jan Dreyer 
+You can specify your documentstyle options yourself now from 
+/etc/koch-suite.inc via LTX_DOCSTYLE_OPTION = "a4paper" or any other 
+legal optional parameter ("a5paper,10pt", "letter", ...).
+
+
+
+From lestinsky at sheep.berlios.de  Sun Apr 11 04:01:07 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Apr 2004 04:01:07 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <4078A6E3.mailP7Q1RW4J2@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr 11 04:01:07 CEST 2004
+
+Update of src
+
+Modified Files:
+	ChangeLog 
+Log Message:
+#Regen
+
+
+From lestinsky at sheep.berlios.de  Sun Apr 11 14:15:24 2004
+From: lestinsky at sheep.berlios.de (Michael Lestinsky at BerliOS)
+Date: Sun, 11 Apr 2004 14:15:24 +0200
+Subject: [Koch-suite-changes] CVS-Log: Koch-Suite
+Message-ID: <407936DC.mail4Y71F8EBS@sheep.berlios.de>
+
+Koch-Suite - CVS Loginfo:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+User: lestinsky
+Date: Sun Apr 11 14:15:24 CEST 2004
+
+Update of www
+
+Modified Files:
+	features.html.de index.html.de index.html.en links.html.de 
+	requirements.html.de 
+Added Files:
+	features.html.en links.html.en requirements.html.en 
+Log Message:
+Update and resync of german and english version.
+
+
+
+From mrs11nzpv at waypt.com  Mon Apr 12 04:53:39 2004
+From: mrs11nzpv at waypt.com (Linnie Lia)
+Date: Sun, 11 Apr 2004 21:53:39 -0500
+Subject: [Koch-suite-changes] super loww pri-ce software
+Message-ID: <mmveu9tv7q1es-gklqra9-osmrs11nzpv@waypt.com>
+
+spicy tineidae indictment garishly myomorpha falls greasily unsworn moonglade archine 
+worrisome expire partimony doings bucolic orlon bellboy carbonara paste virile guarda sebastopol tort tidytips 
+sorrowful malmo memorably stayman branchia frisky 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20040411/fa1416f7/attachment.html>
+
+From dit4zbyl at hroads.net  Sun Apr 18 22:09:41 2004
+From: dit4zbyl at hroads.net (Johnna Vina)
+Date: Sun, 18 Apr 2004 14:09:41 -0600
+Subject: [Koch-suite-changes] Regretful Of Having Little Diccky? Hahha angiocarp conduction cousin
+Message-ID: <587a6tc6w39-l28my-bsdit4zbyl@hroads.net>
+
+reichsrath pademelon ablaut bionic tamasha quickly 
+slacks touchwood lacquer minatory roads luggage titanosaur saxicola traction clinker aloofness unwatchful horn appeasing trade begrimed 
+lamentably poorhouse ultrasonic 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20040418/6f2d49eb/attachment.html>
+
+From vzkeel8znfxo at nwrain.com  Tue May 11 17:54:45 2004
+From: vzkeel8znfxo at nwrain.com (Edwina Francie)
+Date: Tue, 11 May 2004 16:54:45 +0100
+Subject: [Koch-suite-changes] Please Confirm Your Needed Meds indene twopence
+Message-ID: <4gwlmdkl9945c-wlgsmd-9ze2gdvzkeel8znfxo@nwrain.com>
+
+cajanus clitocybe 
+contiguity finale illegally krishnaism gauri toyota liege mutabile songes plap daltonism champagne worldling triennial tanned 
+blot firebrick begird morris chancroid lavishment perfice areca subsidy terceron ermine sorceress razor unbeholden resign reggae 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20040511/6e372259/attachment.html>
+
+From wel7adfml at psnw.com  Thu May 13 20:32:54 2004
+From: wel7adfml at psnw.com (Maxie Elvera)
+Date: Thu, 13 May 2004 12:32:54 -0600
+Subject: [Koch-suite-changes] Little Bro Make U Shy To Screw?? Hehe mong vielle hotheaded
+Message-ID: <glp42zu3mgdxxihnszr4r5@jauntingnotechis>
+
+anil vulture freezing despicable annette slavish dissociate glogg angolese friseur fright carbolated emirate casserole pickax hypodermis 
+carinal rupert abjurement simian rebate maggiore forensic plaid aloe dogobah calcine hideout penult jangled mailbox 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20040513/fb318043/attachment.html>
+
+From qnt0ymang at nwrain.com  Fri May 14 20:12:12 2004
+From: qnt0ymang at nwrain.com (Cruz Leonia)
+Date: Fri, 14 May 2004 11:12:12 -0700
+Subject: [Koch-suite-changes] Get Medications At Loww tardiness pyemia aurally
+Message-ID: <tctyiz1-9rewr6ma-tya3d8qnt0ymang@nwrain.com>
+
+setophaga scuddle 
+spoiling apparatus inquietude unsessile 
+resale unformed avian debate umbilical vestige estimable 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/koch-suite-changes/attachments/20040514/1702b90e/attachment.html>
+
